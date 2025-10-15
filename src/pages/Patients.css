@@ -1,0 +1,28 @@
+.patients-page {
+  padding: 2rem;
+}
+
+.search-bar {
+  width: 100%;
+  padding: 0.5rem;
+  margin-bottom: 1rem;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.patient-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+  gap: 1rem;
+}
+
+@media (max-width: 768px) {
+  .patients-page {
+    padding: 1rem;
+  }
+
+  .patient-grid {
+    grid-template-columns: 1fr;
+  }
+}
