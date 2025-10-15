@@ -54,3 +54,9 @@ Then follow the deployment instructions for your chosen platform.
 ## Screenshots
 
 (Add screenshots here after deployment)
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/3e1066ed-de2c-46b6-893d-bb721b9f3775" />
+
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/803a8206-f2d3-4e96-8f20-f8edd058daab" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/92f51ffc-3c52-4d71-a463-6a603e45098a" />
+
